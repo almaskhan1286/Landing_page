@@ -308,7 +308,7 @@ img {
 
 .sec2-man {
   position: absolute;
-  top: -4.2rem;
+  top: -3.3rem;
   left: -5rem;
   width: auto;
   height: 22rem;
@@ -547,6 +547,15 @@ img {
   height: 50vh;
   background-color: #0391d3;
   margin-top: 13rem;
+}
+
+.sec5-man{
+  position: absolute;
+  top: -4.2rem;
+  left: -5rem;
+  width: auto;
+  height: 22rem;
+  z-index: 3;
 }
 
 /* Section 6 */
@@ -866,6 +875,7 @@ img {
 
   .sec-3 {
     margin-top: 10rem;
+    
   }
 
   .container-3 {
